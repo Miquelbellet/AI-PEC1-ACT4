@@ -45,3 +45,44 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+
+=== Mon Mar 23 21:55:11 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.2.2
+  com.unity.connect.share@1.0.10-preview
+  com.unity.learn.iet-framework@0.2.3-preview.1
+  com.unity.probuilder@4.1.0
+  com.unity.progrids@3.0.3-preview.4
+  com.unity.purchasing@2.0.3
+
+=== Mon Mar 23 22:12:55 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+  com.unity.cinemachine@2.3.3
+  com.unity.ide.visualstudio@1.0.11
+  com.unity.multiplayer-hlapi@1.0.2
+  com.unity.postprocessing@2.1.4
+  com.unity.xr.legacyinputhelpers@2.0.2
+The following packages were updated:
+  com.unity.ads from version 2.0.8 to 2.3.1
+  com.unity.analytics from version 3.2.2 to 3.3.2
+  com.unity.purchasing from version 2.0.3 to 2.0.6
+
+=== Tue Mar 24 22:20:49 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.multiplayer-hlapi from version 1.0.2 to 1.0.4
+  com.unity.postprocessing from version 2.1.4 to 2.1.6
