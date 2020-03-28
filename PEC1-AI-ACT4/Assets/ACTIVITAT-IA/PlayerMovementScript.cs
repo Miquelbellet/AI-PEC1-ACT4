@@ -36,6 +36,7 @@ public class PlayerMovementScript : MonoBehaviour
 
     void Aiming()
     {
+        //Agafar la posició del mouse i fer que la torreta del tank apunti cap a on está el cursor
         mousePos = Input.mousePosition;
         var turretGlobalPos = Camera.main.WorldToScreenPoint(turret.transform.position);
         var angle = Mathf.Atan2(mousePos.y - turretGlobalPos.y, mousePos.x - turretGlobalPos.x) * Mathf.Rad2Deg;
